@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+<script id="pega-wm-chat" src="https://widget.use1.chat.pega.digital/8423bb82-80cb-4872-a8e3-3aeea3817008/widget.js"></script>
 1. Numbered
 2. List
 
